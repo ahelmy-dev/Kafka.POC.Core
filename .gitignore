@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Kafka.POC/.vs
+/Kafka.POC/KafkaPOC.Consumer.API/bin
+/Kafka.POC/KafkaPOC.Consumer.API/obj/Debug/net8.0
+/Kafka.POC/KafkaPOC.Consumer.API/obj/Release/net8.0
+/Kafka.POC/KafkaPOC.Consumer.API/obj
+/Kafka.POC/KafkaPOC.Consumer.Domain/obj
+/Kafka.POC/KafkaPOC.Consumer.Infrastructure/bin
+/Kafka.POC/KafkaPOC.Consumer.Infrastructure/obj
+/Kafka.POC/KafkaPOC.Producer.API/bin
+/Kafka.POC/KafkaPOC.Producer.API/obj
+/Kafka.POC/KafkaPOC.Producer.Application/bin
+/Kafka.POC/KafkaPOC.Producer.Application/obj
+/Kafka.POC/KafkaPOC.Producer.Domain/bin
+/Kafka.POC/KafkaPOC.Producer.Domain/obj
